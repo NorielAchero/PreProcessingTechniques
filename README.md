@@ -15,3 +15,12 @@ Pre-processing Techniques for Datasets in Computer Vision Models using openCV
 
 ### Histogram Equalization
 - equalizeHist
+
+### Geometric Transformations
+- Translation
+- Rotation
+- Scaling
+
+### Affine Transformations
+
+### Projective Transformations
